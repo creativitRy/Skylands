@@ -2,6 +2,7 @@
 A WorldPainter Script that creates floating islands based on a heightmap.
 
 ![](http://i.imgur.com/s28NRRx.png)
+![](http://i.imgur.com/NF9ojl9.png)
 
 ## Download
 http://www.mediafire.com/file/0jbnpca4kdj58pb/Skylands.zip
