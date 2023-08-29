@@ -22,3 +22,7 @@ http://www.mediafire.com/file/0jbnpca4kdj58pb/Skylands.zip
 2. On the Tools menu, click on Run script...
 3. Open the Skylands.js file
 4. Change settings to your desire and run
+
+## Undo:
+1. Run the script without giving it an image. This will remove all layers previously applied by Skylands.js
+2. The delete operation will take much longer, so be patient.
